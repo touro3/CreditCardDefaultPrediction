@@ -39,13 +39,10 @@ The cleaned dataset is saved as cleaned_cartao_credito.xlsx for further analysis
 Clone this repository or download the project files.
 Place the dataset cartao_credito_excel.xls in the dados/ directory.
 Set up a Python virtual environment (optional but recommended):
+
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-You can install these dependencies by running:
-
-```bash
 pip install -r requirements.txt
 
 
